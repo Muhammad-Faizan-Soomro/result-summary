@@ -26,13 +26,16 @@ Users should be able to:
 
 ### Screenshots
 
+## Desktop
 ![](./assets/images/desktop-screenshot.png)
+
+## Mobile Devices
 ![](./assets/images/mobile-screenshot.png)
 
 ### Links
 
 - Solution URL: [Github Repository](https://github.com/Muhammad-Faizan-Soomro/result-summary)
-- Live Site URL: [Website](https://your-live-site-url.com)
+- Live Site URL: [Website](https://muhammad-faizan-soomro.github.io/result-summary/)
 
 ## My process
 
